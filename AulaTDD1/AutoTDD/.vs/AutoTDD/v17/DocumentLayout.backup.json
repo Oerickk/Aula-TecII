@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alunos\\Downloads\\AulaTDD1\\AutoTDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0FD0D6-07C2-42C3-BB63-878307C48918}|AulaTDD.Tests\\AulaTDD.Tests.csproj|c:\\users\\alunos\\downloads\\aulatdd1\\autotdd\\aulatdd.tests\\alunotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0FD0D6-07C2-42C3-BB63-878307C48918}|AulaTDD.Tests\\AulaTDD.Tests.csproj|solutionrelative:aulatdd.tests\\alunotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B051E1B-A2CB-4AF4-82F9-3C6BA7E6DC89}|AutoTDD\\AutoTDD.csproj|c:\\users\\alunos\\downloads\\aulatdd1\\autotdd\\autotdd\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B051E1B-A2CB-4AF4-82F9-3C6BA7E6DC89}|AutoTDD\\AutoTDD.csproj|solutionrelative:autotdd\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Downloads\\AulaTDD1\\AutoTDD\\AutoTDD\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "AutoTDD\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Downloads\\AulaTDD1\\AutoTDD\\AutoTDD\\Models\\Aluno.cs",
+              "RelativeToolTip": "AutoTDD\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:41:13.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunoTests.cs",
+              "DocumentMoniker": "C:\\Users\\Alunos\\Downloads\\AulaTDD1\\AutoTDD\\AulaTDD.Tests\\AlunoTests.cs",
+              "RelativeDocumentMoniker": "AulaTDD.Tests\\AlunoTests.cs",
+              "ToolTip": "C:\\Users\\Alunos\\Downloads\\AulaTDD1\\AutoTDD\\AulaTDD.Tests\\AlunoTests.cs*",
+              "RelativeToolTip": "AulaTDD.Tests\\AlunoTests.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T13:47:18.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
